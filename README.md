@@ -38,3 +38,8 @@
  "review_title": "Feels like 10K overpriced still good  ",
  "review_date": "15 April 2019", 
  "review_text": "Former iPhone 6s userUi ugly but way fastBattery life omg wowStill camera niceVideo camera mehFinger print very slow. "}
+
+
+
+# SENTIMENTAL ANALYSIS:
+I HAVE USED VADER FROM NLTK (python standard lib) for sentiment analysis, to classify as positive, negative , neutral reviews.
