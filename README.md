@@ -41,5 +41,5 @@
 
 
 
-# SENTIMENTAL ANALYSIS:
+## SENTIMENT ANALYSIS:
 I HAVE USED VADER FROM NLTK (python standard lib) for sentiment analysis, to classify as positive, negative , neutral reviews.
